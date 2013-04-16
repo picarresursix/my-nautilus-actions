@@ -1,0 +1,24 @@
+#+TITLE: TITLE
+#+DESCRIPTION: short description
+#+AUTHOR: Me
+#+DATE: Time-stamp: <2013-04-15 16:23:06 leo>
+#+STARTUP: hidestars indent align
+
+
+
+
+* Project description
+The nautilus actions I add to my right-click menu.
+
+It is hosted on github: [[https://github.com/picarresursix/my-actions]]
+
+They are written in Python or in bash, their documentation is in
+markdown (README files for easy display in github).
+
+INCLUDE: sh py md
+EXCLUDE:
+* Knowledge base
+** Nautilus action tutorials
++ 
+* Items
+
